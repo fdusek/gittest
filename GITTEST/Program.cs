@@ -10,6 +10,7 @@ namespace GITTEST
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ahojky");
         }
     }
 }
